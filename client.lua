@@ -1,3 +1,7 @@
+--  LEAKED BY YaniBarbayani#1096 -- 
+--  https://discord.gg/dreamparadiserp -- 
+--  dreamparadise.com -- 
+
 local Ran = false
 ESX = nil
 --local ESX = exports 'esx:getSharedObject'() 
