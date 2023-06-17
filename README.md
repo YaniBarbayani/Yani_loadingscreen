@@ -1,5 +1,7 @@
 # Yani_loadingscreen
 
---   BY YaniBarbayani#1096 -- 
 --  https://discord.gg/dreamparadiserp -- 
---  dreamparadise.com -- 
+
+# Photo
+
+![Без име](https://github.com/YaniBarbayani/Yani_loadingscreen/assets/121999573/14d73efb-7806-45a4-a49c-fde10a0abd71)
