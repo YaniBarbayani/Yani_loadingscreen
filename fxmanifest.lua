@@ -1,8 +1,8 @@
 fx_version 'adamant'
 game 'gta5'
 
-author 'Yani Barbayani#1096'
-description 'DreamParadise-Loading'
+author 'Mr.Shellby'
+description 'Sunrise City-Loading'
 
 
 client_script "client.lua"
