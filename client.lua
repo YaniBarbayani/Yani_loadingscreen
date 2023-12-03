@@ -1,6 +1,5 @@
---  LEAKED BY YaniBarbayani#1096 -- 
---  https://discord.gg/dreamparadiserp -- 
---  dreamparadise.com -- 
+ --Leaked by Mr.Shellby --- [5M LEAKS BULGARIA] --
+--Discord: https://discord.gg/ZJfn8VGjfC---
 
 local Ran = false
 ESX = nil
